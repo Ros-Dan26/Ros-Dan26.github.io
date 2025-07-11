@@ -1,0 +1,10 @@
+C:\Users\Imss\Desktop\SS (YO)\Codigos\Calculadora_140BISV2\Calculadora_140BISV2\bin\Release\Calculadora_140BISV2.exe.config
+C:\Users\Imss\Desktop\SS (YO)\Codigos\Calculadora_140BISV2\Calculadora_140BISV2\obj\Release\Calculadora_140BISV2.csproj.ResolveComReference.cache
+C:\Users\Imss\Desktop\SS (YO)\Codigos\Calculadora_140BISV2\Calculadora_140BISV2\bin\Release\Calculadora_140BISV2.exe
+C:\Users\Imss\Desktop\SS (YO)\Codigos\Calculadora_140BISV2\Calculadora_140BISV2\bin\Release\Calculadora_140BISV2.pdb
+C:\Users\Imss\Desktop\SS (YO)\Codigos\Calculadora_140BISV2\Calculadora_140BISV2\obj\Release\Calculadora_140BISV2.Form1.resources
+C:\Users\Imss\Desktop\SS (YO)\Codigos\Calculadora_140BISV2\Calculadora_140BISV2\obj\Release\Calculadora_140BISV2.Properties.Resources.resources
+C:\Users\Imss\Desktop\SS (YO)\Codigos\Calculadora_140BISV2\Calculadora_140BISV2\obj\Release\Calculadora_140BISV2.csproj.GenerateResource.Cache
+C:\Users\Imss\Desktop\SS (YO)\Codigos\Calculadora_140BISV2\Calculadora_140BISV2\obj\Release\Calculadora_140BISV2.exe
+C:\Users\Imss\Desktop\SS (YO)\Codigos\Calculadora_140BISV2\Calculadora_140BISV2\obj\Release\Calculadora_140BISV2.pdb
+C:\Users\Imss\Desktop\SS (YO)\Codigos\Calculadora_140BISV2\Calculadora_140BISV2\obj\Release\Calculadora_140BISV2.csprojResolveAssemblyReference.cache
