@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: rgb(212, 212, 212);
 }
 
 body,html {
@@ -11,10 +12,21 @@ body,html {
 }
 
 .contenedor-cards{
-    background-color: antiquewhite;
+
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+.Imagen-registro {
+    
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    height: 400px;
+    /*max-width: 100%;*/
+
 }
 
 .card{
