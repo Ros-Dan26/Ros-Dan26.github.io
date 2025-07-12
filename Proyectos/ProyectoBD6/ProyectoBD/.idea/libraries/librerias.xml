@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="librerias">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Electronicos/librerias/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Electronicos/librerias/swingx-all-1.6.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Electronicos/librerias/itextpdf-5.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

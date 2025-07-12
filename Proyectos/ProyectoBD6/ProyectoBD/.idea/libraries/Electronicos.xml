@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Electronicos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Electronicos/dist/Electronicos.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

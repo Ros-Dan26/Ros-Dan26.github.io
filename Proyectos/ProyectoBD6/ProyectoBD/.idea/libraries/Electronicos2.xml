@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Electronicos2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ProyectoBD/Electronicos/dist/Electronicos.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
