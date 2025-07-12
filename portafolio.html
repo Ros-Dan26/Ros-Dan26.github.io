@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
     <title>Pagina inicio</title>
@@ -35,41 +36,127 @@
                             <a class="nav-link" href="https://github.com/Ros-Dan26">GitHub</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://www.linkedin.com/in/daniel-arian-arias-rosales-0a5876364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedint</a>
+                            <a class="nav-link"
+                                href="https://www.linkedin.com/in/daniel-arian-arias-rosales-0a5876364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedint</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
 
-        <h1>Sobre mi</h1><br>
-        <h5>
-           Soy un desarrollador apasionado por la tecnología y el aprendizaje constante. Trabajo tanto en backend (Java, C#, Python) como en el frontend (JavaScript, HTML, CSS), y manejo bases de datos SQL. Me adapto a nuevos entornos y desafíos, trabajo bien en equipo y busco aprender cosas nuevas. Estoy en constante evolución para convertirme en un Full Stack Developer, aportando no solo con habilidades técnicas, sino también con una actitud positiva y enfocada en objetivos 
-        </h5> <hr>
 
 
-        <h1>Proyectos</h1><hr>
+        <h1>Proyectos</h1>
+        <hr>
 
-        <h3>Verificación de integridad en audio digital basado en hash perceptual mediante la codificación aritmética delos coeficientes cepstrales</h3>
-        <br>
-        <h5>
-            Colaboré en un equipo multidisciplinario en el que se desarrolló un sistema de verificación de integridad en audio digital mediante la generación de un resumen de características importantes y procesamiento del audio para llevar a cabo la detección de alteración, recorte o adición en su contenido. El sistema fue implementado en MATLAB, para simular las alteraciones utilizamos el software Audacity para el procesamiento y alteración de los audios.
-        </h5><hr>
-        <h3>Calculadora para prestacion 140Bis</h3> <br>
-        <h5>
-            El programa accede a un sistema interno del IMSS mediante el NSS del usuario extrae su informacion laboral "semanas contizadas" la cual es utilizada para determinar mediante las fechas (campos a llenar) si el trabajador
-            es apto para recibir dicha prestacion. Se extrae la informacion para guardarla en un txt, que sera analizado y limpiado dejando solamente las columnas que nos seran utiles. Una vez la informacion esta limpia, se procede a realizar
-            la concatenacion de las semanas, salario, ademas de otras condiciones que establece la prestacion. Al final se evalua mediante esas condiciones si se otorga o no, ademas de mostrar las fechas utilizadas para la contabilizacion, el salario total.
-            informacion basica del beneficiario, la opcion de pasar la informacion a un archivo Excel, culminando en la respuesta si o no es beneficiario.
-        </h5><hr>
-        <h3>Punto de venta de electronica</h3><br>
-        <h5>
-            Utilizando Java y una base de datos SQL, se realizo la creacion de una interfaz funcional de punto de venta de eletronica.
-        </h5><hr>
-        <h3>Juego Space Invaders</h3><br>
-        <h5>
-            Empleando Python se realizo la creacion de una replica del clasico juego Space Invaders 
-        </h5>
+        <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner ">
+
+                <div class="carousel-item active">
+
+                    <div class="contenedor-cards">
+                        <div class="card">
+                            <img src="/Imagenes/Sistema_Verificacion.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Verificación de integridad en audio digital basado en hash
+                                    perceptual
+                                    mediante la codificación aritmética
+                                    delos coeficientes cepstrales</h5>
+                                <p class="card-text">Colaboré en un equipo multidisciplinario en el que se desarrolló un
+                                    sistema de verificación de integridad en
+                                    audio digital mediante la generación de un resumen de características importantes y
+                                    procesamiento del audio
+                                    para llevar a cabo la detección de alteración, recorte o adición en su contenido. El
+                                    sistema fue
+                                    implementado en MATLAB, para simular las alteraciones utilizamos el software
+                                    Audacity
+                                    para el procesamiento
+                                    y alteración de los audios.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="carousel-item">
+
+                    <div class="contenedor-cards">
+                        <div class="card">
+                            <img src="/Imagenes/Calculadora_140BISV2.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Calculadora para prestacion 140Bis</h5>
+                                <p class="card-text">El programa accede a un sistema interno del IMSS mediante el NSS
+                                    del
+                                    usuario extrae su informacion laboral
+                                    "semanas contizadas" la cual es utilizada para determinar mediante las fechas
+                                    (campos a
+                                    llenar) si el
+                                    trabajador
+                                    es apto para recibir dicha prestacion. Se extrae la informacion para guardarla en un
+                                    txt, que sera analizado
+                                    y limpiado dejando solamente las columnas que nos seran utiles. Una vez la
+                                    informacion
+                                    esta limpia, se
+                                    procede a realizar
+                                    la concatenacion de las semanas, salario, ademas de otras condiciones que establece
+                                    la
+                                    prestacion. Al final
+                                    se evalua mediante esas condiciones si se otorga o no, ademas de mostrar las fechas
+                                    utilizadas para la
+                                    contabilizacion, el salario total.
+                                    informacion basica del beneficiario, la opcion de pasar la informacion a un archivo
+                                    Excel, culminando en la
+                                    respuesta si o no es beneficiario.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="carousel-item">
+
+                    <div class="contenedor-cards">
+                        <div class="card">
+                            <img src="/Imagenes/Juego Space Invadiers.png" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Juego Space Invaders</h5>
+                                <p class="card-text">Empleando Python se realizo la creacion de una replica del clasico
+                                    juego Space Invaders</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="carousel-item">
+
+                    <div class="contenedor-cards">
+                        <div class="card">
+                            <img src="..." class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Punto de venta de electronica</h5>
+                                <p class="card-text">Utilizando Java y una base de datos SQL, se realizo la creacion de
+                                    una
+                                    interfaz funcional de punto de venta
+                                    de eletronica.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
+                data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
+                data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+
+
 
 
     </div>
