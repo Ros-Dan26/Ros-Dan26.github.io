@@ -60,6 +60,14 @@ border: 1px solid white;
      border: 1px solid white;
 }
 
+.containerProy{
+    display: flex;
+     justify-content:center;
+     align-items: center;
+     flex-direction: column;
+     border: 1px solid white;
+}
+
 .row{
     display: flex;
     justify-content: center;
