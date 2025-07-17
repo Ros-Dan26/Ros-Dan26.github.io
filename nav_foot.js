@@ -40,9 +40,6 @@ function createNavbar() {
                             <a class="nav-link" href="cv.html">CV</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="portafolio.html">Portafolio</a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link" href="https://github.com/Ros-Dan26">GitHub</a>
                         </li>
                         <li class="nav-item">
