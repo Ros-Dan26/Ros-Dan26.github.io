@@ -3,12 +3,17 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: rgb(212, 212, 212);
 }
 
 body,html {
     height: 100%;
     font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.contenido_pagina{
+    background-color: rgb(0, 0, 0);
+    color:white;
 }
 
 .contenedor-cards{
@@ -31,4 +36,53 @@ body,html {
 
 .card{
     width: 600px;
+}
+
+.cardSchool{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+border: 1px solid white;
+    width: 250px;
+    height: 300px;
+}
+
+.cardSkills{
+    width: 10rem; 
+    border: 1px solid;
+
+}
+.container_skills{
+     display: flex;
+     justify-content:center;
+     flex-direction: column;
+     border: 1px solid white;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    border: 1px solid white;
+}
+
+.rowCursos{
+    display: flex;
+    justify-content: center;
+    border: 1px solid;
+}
+
+.col{
+    margin-right: 10px;
+}
+
+.footer-content{
+    display: flex;
+    justify-content: center; /*horizontalmente*/
+    align-items: center; /*vertical*/
+    flex-direction: column;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    color:white;
+    padding-top: 20px;
 }
