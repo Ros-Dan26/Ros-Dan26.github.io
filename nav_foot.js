@@ -9,10 +9,9 @@ const createFooter = () => {
     <div class="footer-content">
             <p>Contacto</p>
             <ul>
-                <li>Teléfono: 55 1234 5678</li>
                 <li>Correo: Arias_Daniel.00@outlook.com</li>
             </ul>
-            <p class="copyright">&copy; 2025 Net-Shopping Online. Todos los derechos reservados.</p>
+            <p class="copyright">&copy; 2025 Daniel Arias. Todos los derechos reservados.</p>
     </div>
     
 `;
